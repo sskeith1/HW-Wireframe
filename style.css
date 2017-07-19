@@ -11,8 +11,20 @@ body {
 	line-height: 32px;
 }
 
-#hnf {
+.hnf {
 	float: center;
 	width: 960px;
-	
+}
+
+.box{
+	height: 40px;
+	width: 100px;
+}
+
+.grey{
+	color: grey;
+}
+
+.bold{
+	font-style: bold;
 }
